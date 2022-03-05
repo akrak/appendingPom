@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-api:2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: io.joern:dataflowengineoss_3:1.1.593" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala3-library_3:3.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.13.6" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.9.3" level="project" />
+    <orderEntry type="library" name="Maven: io.shiftleft:semanticcpg_3:1.3.509" level="project" />
+    <orderEntry type="library" name="Maven: io.shiftleft:codepropertygraph_3:1.3.509" level="project" />
+    <orderEntry type="library" name="Maven: io.shiftleft:codepropertygraph-protos_3:1.3.509" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.10.0" level="project" />
+    <orderEntry type="library" name="Maven: io.shiftleft:codepropertygraph-domain-classes_3:1.3.509" level="project" />
+    <orderEntry type="library" name="Maven: io.shiftleft:overflowdb-traversal_3:1.117" level="project" />
+    <orderEntry type="library" name="Maven: io.shiftleft:overflowdb-core:1.117" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.trove4j:core:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.msgpack:msgpack-core:0.9.0" level="project" />
+    <orderEntry type="library" name="Maven: com.h2database:h2-mvstore:1.4.200" level="project" />
+    <orderEntry type="library" name="Maven: io.shiftleft:formats_3:1.117" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-xml_3:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: net.oneandone.reflections8:reflections8:0.11.7" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.22.0-GA" level="project" />
+    <orderEntry type="library" name="Maven: com.massisframework:j-text-utils:0.3.4" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: au.com.bytecode:opencsv:2.4" level="project" />
+    <orderEntry type="library" name="Maven: com.github.scopt:scopt_3:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.pathikrit:better-files_2.13:3.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: org.json4s:json4s-native_3:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.json4s:json4s-core_3:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.json4s:json4s-ast_3:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.json4s:json4s-scalap_3:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.thoughtworks.paranamer:paranamer:2.8" level="project" />
+    <orderEntry type="library" name="Maven: org.json4s:json4s-native-core_3:4.0.3" level="project" />
+  </component>
+</module>
